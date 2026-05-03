@@ -1,5 +1,8 @@
 # 📏 Screen Distance Alert System
 
+<img width="1330" height="1600" alt="image" src="https://github.com/user-attachments/assets/54a839cf-5a6f-4fba-8ac9-c68ce27a86bd" />
+
+
 A simple Arduino-based project that monitors the distance between a user and a screen using an ultrasonic sensor. If the user gets too close (less than 30 cm), a buzzer and LED are activated as a warning.
 
 ---
